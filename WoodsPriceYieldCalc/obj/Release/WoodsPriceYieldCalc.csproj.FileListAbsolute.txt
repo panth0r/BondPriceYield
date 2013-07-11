@@ -1,0 +1,12 @@
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\WoodsPriceYieldCalc\WoodsPriceYieldCalc\bin\Release\WoodsPriceYieldCalc.exe.config
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\WoodsPriceYieldCalc\WoodsPriceYieldCalc\bin\Release\WoodsPriceYieldCalc.exe
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\WoodsPriceYieldCalc\WoodsPriceYieldCalc\bin\Release\WoodsPriceYieldCalc.pdb
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\WoodsPriceYieldCalc\WoodsPriceYieldCalc\bin\Release\en-US\WoodsPriceYieldCalc.resources.dll
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\WoodsPriceYieldCalc\WoodsPriceYieldCalc\obj\Release\WoodsPriceYieldCalc.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\WoodsPriceYieldCalc\WoodsPriceYieldCalc\obj\Release\WoodsPriceYieldCalc.WoodsPYTMCalc.resources
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\WoodsPriceYieldCalc\WoodsPriceYieldCalc\obj\Release\WoodsPriceYieldCalc.Properties.Resources.resources
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\WoodsPriceYieldCalc\WoodsPriceYieldCalc\obj\Release\WoodsPriceYieldCalc.WoodsPYTMCalc.en-US.resources
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\WoodsPriceYieldCalc\WoodsPriceYieldCalc\obj\Release\WoodsPriceYieldCalc.csproj.GenerateResource.Cache
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\WoodsPriceYieldCalc\WoodsPriceYieldCalc\obj\Release\en-US\WoodsPriceYieldCalc.resources.dll
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\WoodsPriceYieldCalc\WoodsPriceYieldCalc\obj\Release\WoodsPriceYieldCalc.exe
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\WoodsPriceYieldCalc\WoodsPriceYieldCalc\obj\Release\WoodsPriceYieldCalc.pdb

@@ -1,0 +1,8 @@
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\WoodsPriceYieldCalc\WoodsCalcUT\bin\Release\WoodsCalcUT.dll
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\WoodsPriceYieldCalc\WoodsCalcUT\bin\Release\WoodsCalcUT.pdb
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\WoodsPriceYieldCalc\WoodsCalcUT\bin\Release\WoodsPriceYieldCalc.exe
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\WoodsPriceYieldCalc\WoodsCalcUT\bin\Release\WoodsPriceYieldCalc.pdb
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\WoodsPriceYieldCalc\WoodsCalcUT\bin\Release\en-US\WoodsPriceYieldCalc.resources.dll
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\WoodsPriceYieldCalc\WoodsCalcUT\obj\Release\WoodsCalcUT.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\WoodsPriceYieldCalc\WoodsCalcUT\obj\Release\WoodsCalcUT.dll
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\WoodsPriceYieldCalc\WoodsCalcUT\obj\Release\WoodsCalcUT.pdb
